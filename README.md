@@ -1,7 +1,3 @@
-Perfect 👌 Let me draft a polished **README intro** for your GitHub repo. You can later expand it with setup instructions, images, or demo videos.
-
----
-
 # Plastic Sorting Robotic Arm 🤖♻️
 
 ## Overview
