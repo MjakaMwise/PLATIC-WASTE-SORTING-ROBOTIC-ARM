@@ -50,7 +50,7 @@ This moves the end effector to position (10cm, 5cm, 8cm) and automatically calcu
 **Move with gripper control:**
 ```
 IK,X=10,Y=5,Z=8,G=45
-```
+
 Same as above, but also sets the gripper to 45°.
 
 **Utility commands:**
@@ -80,7 +80,7 @@ STATUS   - Show current angles and calculated position
 - **Height range**: 0cm to 15cm (5cm base + 10cm arms)
 
 ## Example Commands
-```
+
 IK,X=8,Y=0,Z=5     - Reach straight forward
 IK,X=5,Y=5,Z=10    - Reach up and to the left
 IK,X=0,Y=7,Z=5     - Reach directly to the left
